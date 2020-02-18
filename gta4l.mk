@@ -340,6 +340,7 @@ PRODUCT_PACKAGES += \
     android.hardware.wifi-service \
     firmware_WCNSS_qcom_cfg.ini_symlink \
     hostapd \
+    libwifi-hal-ctrl \
     libwifi-hal-qcom \
     libwpa_client \
     wpa_supplicant \
