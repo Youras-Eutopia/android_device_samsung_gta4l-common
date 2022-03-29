@@ -111,7 +111,9 @@ BOARD_MKBOOTIMG_ARGS += --header_version $(BOARD_BOOT_HEADER_VERSION)
 BOARD_INCLUDE_DTB_IN_BOOTIMG := true
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_SOURCE := kernel/samsung/sm6115
-TARGET_KERNEL_CONFIG := gta4l_defconfig
+TARGET_KERNEL_CONFIG := \
+    gta4l_defconfig \
+    vendor/debugfs.config
 
 # Keymaster
 TARGET_KEYMASTER_VARIANT := samsung
