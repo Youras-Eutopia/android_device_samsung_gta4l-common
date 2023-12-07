@@ -22,7 +22,6 @@ COMMON_PATH := device/samsung/gta4l-common
 # Platform
 BOARD_VENDOR := samsung
 TARGET_BOARD_PLATFORM := bengal
-TARGET_BOARD_PLATFORM_GPU := qcom-adreno610
 
 # Architecture
 TARGET_ARCH := arm64
