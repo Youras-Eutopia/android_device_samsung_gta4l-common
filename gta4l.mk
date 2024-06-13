@@ -105,6 +105,10 @@ PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.5-legacy.samsung \
     android.hardware.camera.provider@2.5-service_64.samsung
 
+PRODUCT_PACKAGES += \
+    libexif.vendor:64 \
+    libjpeg.vendor:64
+
 # Charger
 PRODUCT_PACKAGES += \
     libsuspend
@@ -284,7 +288,10 @@ PRODUCT_PACKAGES += \
 
 # QCOM
 PRODUCT_PACKAGES += \
+    libcurl.vendor:64 \
     libjson \
+    libjsoncpp.vendor:64 \
+    libsqlite.vendor:64 \
     libtinyxml
 
 # QTI
