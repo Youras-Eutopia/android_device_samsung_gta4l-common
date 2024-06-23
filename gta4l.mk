@@ -23,6 +23,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/non_ab_device.mk)
 # Enable updating of APEXes
 $(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
 
+# Add common definitions for Qualcomm
+$(call inherit-product, hardware/qcom-caf/common/common.mk)
+
 # Get non-open-source specific aspects
 $(call inherit-product, vendor/samsung/gta4l-common/gta4l-common-vendor.mk)
 
