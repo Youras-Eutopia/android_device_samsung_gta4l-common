@@ -40,14 +40,6 @@ vendor/lib64/libqtigef.so
 vendor/lib64/libsecaudiocoreutils.so
 
 # Audio - ACDB
-vendor/etc/acdbdata/IDP/IDP_Bluetooth_cal.acdb
-vendor/etc/acdbdata/IDP/IDP_General_cal.acdb
-vendor/etc/acdbdata/IDP/IDP_Global_cal.acdb
-vendor/etc/acdbdata/IDP/IDP_Handset_cal.acdb
-vendor/etc/acdbdata/IDP/IDP_Hdmi_cal.acdb
-vendor/etc/acdbdata/IDP/IDP_Headset_cal.acdb
-vendor/etc/acdbdata/IDP/IDP_Speaker_cal.acdb
-vendor/etc/acdbdata/IDP/IDP_workspaceFile.qwsp
 vendor/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_General_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_Global_cal.acdb
@@ -56,46 +48,6 @@ vendor/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp
-vendor/etc/acdbdata/QRD_chc/QRD_chc_Bluetooth_cal.acdb
-vendor/etc/acdbdata/QRD_chc/QRD_chc_General_cal.acdb
-vendor/etc/acdbdata/QRD_chc/QRD_chc_Global_cal.acdb
-vendor/etc/acdbdata/QRD_chc/QRD_chc_Handset_cal.acdb
-vendor/etc/acdbdata/QRD_chc/QRD_chc_Hdmi_cal.acdb
-vendor/etc/acdbdata/QRD_chc/QRD_chc_Headset_cal.acdb
-vendor/etc/acdbdata/QRD_chc/QRD_chc_Speaker_cal.acdb
-vendor/etc/acdbdata/QRD_chc/QRD_chc_workspaceFile.qwsp
-vendor/etc/acdbdata/QRD_koo/QRD_koo_Bluetooth_cal.acdb
-vendor/etc/acdbdata/QRD_koo/QRD_koo_General_cal.acdb
-vendor/etc/acdbdata/QRD_koo/QRD_koo_Global_cal.acdb
-vendor/etc/acdbdata/QRD_koo/QRD_koo_Handset_cal.acdb
-vendor/etc/acdbdata/QRD_koo/QRD_koo_Hdmi_cal.acdb
-vendor/etc/acdbdata/QRD_koo/QRD_koo_Headset_cal.acdb
-vendor/etc/acdbdata/QRD_koo/QRD_koo_Speaker_cal.acdb
-vendor/etc/acdbdata/QRD_koo/QRD_koo_workspaceFile.qwsp
-vendor/etc/acdbdata/QRD_mea/QRD_mea_Bluetooth_cal.acdb
-vendor/etc/acdbdata/QRD_mea/QRD_mea_General_cal.acdb
-vendor/etc/acdbdata/QRD_mea/QRD_mea_Global_cal.acdb
-vendor/etc/acdbdata/QRD_mea/QRD_mea_Handset_cal.acdb
-vendor/etc/acdbdata/QRD_mea/QRD_mea_Hdmi_cal.acdb
-vendor/etc/acdbdata/QRD_mea/QRD_mea_Headset_cal.acdb
-vendor/etc/acdbdata/QRD_mea/QRD_mea_Speaker_cal.acdb
-vendor/etc/acdbdata/QRD_mea/QRD_mea_workspaceFile.qwsp
-vendor/etc/acdbdata/QRD_sea/QRD_sea_Bluetooth_cal.acdb
-vendor/etc/acdbdata/QRD_sea/QRD_sea_General_cal.acdb
-vendor/etc/acdbdata/QRD_sea/QRD_sea_Global_cal.acdb
-vendor/etc/acdbdata/QRD_sea/QRD_sea_Handset_cal.acdb
-vendor/etc/acdbdata/QRD_sea/QRD_sea_Hdmi_cal.acdb
-vendor/etc/acdbdata/QRD_sea/QRD_sea_Headset_cal.acdb
-vendor/etc/acdbdata/QRD_sea/QRD_sea_Speaker_cal.acdb
-vendor/etc/acdbdata/QRD_sea/QRD_sea_workspaceFile.qwsp
-vendor/etc/acdbdata/QRD_swa/QRD_swa_Bluetooth_cal.acdb
-vendor/etc/acdbdata/QRD_swa/QRD_swa_General_cal.acdb
-vendor/etc/acdbdata/QRD_swa/QRD_swa_Global_cal.acdb
-vendor/etc/acdbdata/QRD_swa/QRD_swa_Handset_cal.acdb
-vendor/etc/acdbdata/QRD_swa/QRD_swa_Hdmi_cal.acdb
-vendor/etc/acdbdata/QRD_swa/QRD_swa_Headset_cal.acdb
-vendor/etc/acdbdata/QRD_swa/QRD_swa_Speaker_cal.acdb
-vendor/etc/acdbdata/QRD_swa/QRD_swa_workspaceFile.qwsp
 
 # Audio FX modules
 vendor/lib/soundfx/libasphere.so
