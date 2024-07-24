@@ -236,7 +236,7 @@ Only the three quirks included above are recognized at this point:
         <MediaCodec name="OMX.qcom.video.decoder.avc" type="video/avc" >
             <Quirk name="requires-allocate-on-input-ports" />
             <Quirk name="requires-allocate-on-output-ports" />
-            <Limit name="size" min="128x128" max="1920x1088" />
+            <Limit name="size" min="128x128" max="2000x1200" />
             <Limit name="alignment" value="2x2" />
             <Limit name="block-size" value="16x16" />
             <Limit name="blocks-per-second" min="64" max="244800" />
