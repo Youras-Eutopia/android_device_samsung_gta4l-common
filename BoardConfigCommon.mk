@@ -215,9 +215,6 @@ TARGET_USERIMAGES_USE_F2FS := true
 
 # Root
 BOARD_ROOT_EXTRA_FOLDERS := efs metadata misc omr
-BOARD_ROOT_EXTRA_SYMLINKS += /vendor/dsp:/dsp
-BOARD_ROOT_EXTRA_SYMLINKS += /vendor/firmware_mnt:/firmware
-BOARD_ROOT_EXTRA_SYMLINKS += /vendor/bt_firmware:/bt_firmware
 
 # Security Patch Level
 VENDOR_SECURITY_PATCH := 2024-01-01
