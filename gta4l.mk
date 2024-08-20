@@ -168,10 +168,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     fastbootd
 
-# Folio
-PRODUCT_PACKAGES += \
-    folio_daemon
-
 # FastCharge
 PRODUCT_PACKAGES += \
     vendor.lineage.fastcharge@1.0-service.samsung
