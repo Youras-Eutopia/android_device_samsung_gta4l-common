@@ -120,7 +120,6 @@ PRODUCT_PACKAGES += \
     fstab.firmware \
     fstab.ramplus \
     init.qcom.early_boot.sh \
-    init.qcom.factory.rc \
     init.qcom.post_boot.sh \
     init.qcom.rc \
     init.qcom.sensors.sh \
