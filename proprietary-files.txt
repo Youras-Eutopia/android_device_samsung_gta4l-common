@@ -756,24 +756,6 @@ vendor/bin/pm-service
 vendor/lib/libperipheral_client.so
 vendor/lib64/libperipheral_client.so
 
-# Power-off charging
-system/bin/lpm
-system/lib64/libmaet.so
-system/lib64/libsxqk_skia.so
-system/media/battery_error.spi
-system/media/battery_low.spi
-system/media/battery_temperature_error.spi
-system/media/battery_temperature_limit.spi
-system/media/battery_water_usb.spi
-system/media/dock_error_usb.spi
-system/media/incomplete_connect.spi
-system/media/lcd_density.txt
-system/media/percentage.spi
-system/media/safety_timer_usb.spi
-system/media/slow_charging_usb.spi
-system/media/temperature_limit_usb.spi
-system/media/water_protection_usb.spi
-
 # Power-off alarm - from FxTec Pro1-X (RKQ1.211130.001)
 system_ext/app/PowerOffAlarm/PowerOffAlarm.apk|87c6115c26843a25460fda0bd76def33d5d48d7a
 vendor/bin/hw/vendor.qti.hardware.alarm@1.0-service|6446a38537ceb4afdc2cdbbd7645e2616842ba6a
