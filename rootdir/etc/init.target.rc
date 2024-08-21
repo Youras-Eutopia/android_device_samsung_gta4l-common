@@ -149,9 +149,3 @@ service dcvs-sh /vendor/bin/init.qti.dcvs.sh
 
 on property:vendor.dcvs.prop=1
    start dcvs-sh
-
-service vendor.wt_rpmb_status /vendor/bin/wt_rpmb_status
-	class core
-	user system
-	group system
-	oneshot

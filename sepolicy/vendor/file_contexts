@@ -21,7 +21,6 @@
 /(vendor|system/vendor)/bin/secril_config_svc                                        u:object_r:secril_config_svc_exec:s0
 /(vendor|system/vendor)/bin/vaultkeeperd                                             u:object_r:vaultkeeperd_exec:s0
 /(vendor|system/vendor)/bin/vendor.samsung.hardware.security.vaultkeeper@2.0-service u:object_r:hal_vaultkeeper_default_exec:s0
-/(vendor|system/vendor)/bin/wt_rpmb_status                                           u:object_r:wt_rpmb_status_exec:s0
 /(vendor|system/vendor)/bin/hw/android\.hardware\.camera\.provider@2\.5-service_64\.samsung u:object_r:hal_camera_default_exec:s0
 
 /dev/grdm                        u:object_r:guardianm_device:s0
