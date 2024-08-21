@@ -19,12 +19,9 @@
 /(vendor|system/vendor)/bin/hw/vendor\.lineage\.fastcharge@1\.0-service\.samsung     u:object_r:hal_lineage_fastcharge_default_exec:s0
 /(vendor|system/vendor)/bin/hw/vendor\.samsung\.hardware\.thermal@1\.0-service       u:object_r:hal_thermal_default_exec:s0
 /(vendor|system/vendor)/bin/secril_config_svc                                        u:object_r:secril_config_svc_exec:s0
-/(vendor|system/vendor)/bin/vaultkeeperd                                             u:object_r:vaultkeeperd_exec:s0
-/(vendor|system/vendor)/bin/vendor.samsung.hardware.security.vaultkeeper@2.0-service u:object_r:hal_vaultkeeper_default_exec:s0
 /(vendor|system/vendor)/bin/hw/android\.hardware\.camera\.provider@2\.5-service_64\.samsung u:object_r:hal_camera_default_exec:s0
 
 /dev/grdm                        u:object_r:guardianm_device:s0
-/dev/socket/vaultkeeper(/.*)?    u:object_r:vaultkeeper_socket:s0
 
 /efs/FactoryApp(/.*)?            u:object_r:app_efs_file:s0
 /efs/bluetooth(/.*)?             u:object_r:bluetooth_efs_file:s0
