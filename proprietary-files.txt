@@ -482,7 +482,6 @@ vendor/lib64/rfsa/adsp/libsns_low_lat_stream_skel.so
 vendor/lib64/vendor.qti.hardware.dsp@1.0.so
 
 # Firmware - Other
-vendor/firmware/Data.msc
 vendor/firmware/dax_param.bin
 vendor/firmware/fs1801.fsm
 vendor/firmware/hx_criteria_auo.csv
@@ -658,25 +657,7 @@ vendor/lib64/libllvm-glnext.so
 vendor/lib64/libllvm-qcom.so
 
 # Graphics (Adreno firmware)
-vendor/firmware/a620_zap.b00
-vendor/firmware/a620_zap.b01
-vendor/firmware/a620_zap.b02
-vendor/firmware/a620_zap.elf
-vendor/firmware/a620_zap.mdt
 vendor/firmware/a630_sqe.fw
-vendor/firmware/a650_gmu.bin
-vendor/firmware/a650_sqe.fw
-vendor/firmware/a650_zap.b00
-vendor/firmware/a650_zap.b01
-vendor/firmware/a650_zap.b02
-vendor/firmware/a650_zap.elf
-vendor/firmware/a650_zap.mdt
-vendor/firmware/a702_sqe.fw
-vendor/firmware/a702_zap.b00
-vendor/firmware/a702_zap.b01
-vendor/firmware/a702_zap.b02
-vendor/firmware/a702_zap.elf
-vendor/firmware/a702_zap.mdt
 
 # Graphics (Vulkan)
 vendor/lib/hw/vulkan.adreno.so
@@ -1140,17 +1121,4 @@ vendor/bin/hw/macloader
 vendor/etc/init/ipa_fws.rc
 vendor/etc/init/wifi.rc:vendor/etc/init/wifi_sec.rc
 vendor/etc/init/wifi_qcom.rc
-vendor/firmware/ipa_fws.b00
-vendor/firmware/ipa_fws.b01
-vendor/firmware/ipa_fws.b02
-vendor/firmware/ipa_fws.b03
-vendor/firmware/ipa_fws.b04
 vendor/firmware/ipa_fws.elf
-vendor/firmware/ipa_fws.mdt
-vendor/firmware/scuba_ipa_fws.b00
-vendor/firmware/scuba_ipa_fws.b01
-vendor/firmware/scuba_ipa_fws.b02
-vendor/firmware/scuba_ipa_fws.b03
-vendor/firmware/scuba_ipa_fws.b04
-vendor/firmware/scuba_ipa_fws.elf
-vendor/firmware/scuba_ipa_fws.mdt
