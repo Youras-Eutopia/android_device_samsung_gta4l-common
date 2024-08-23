@@ -117,7 +117,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     fstab.default \
     fstab.emmc \
-    fstab.firmware \
     fstab.ramplus \
     init.qcom.early_boot.sh \
     init.qcom.post_boot.sh \
