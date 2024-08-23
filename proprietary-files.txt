@@ -1049,3 +1049,8 @@ vendor/etc/init/ipa_fws.rc
 vendor/etc/init/wifi.rc:vendor/etc/init/wifi_sec.rc
 vendor/etc/init/wifi_qcom.rc
 vendor/firmware/ipa_fws.elf
+
+# WiFi firmware
+vendor/firmware/wlan/qca_cld/bdwlan.bin
+vendor/firmware/wlan/qca_cld/grippower.info
+vendor/firmware/wlan/qca_cld/regdb.bin
