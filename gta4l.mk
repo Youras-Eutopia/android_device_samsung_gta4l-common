@@ -116,7 +116,6 @@ PRODUCT_PACKAGES += \
 
 # Common init scripts
 PRODUCT_PACKAGES += \
-    fstab.default \
     fstab.emmc \
     fstab.ramplus \
     init.qcom.early_boot.sh \
