@@ -217,7 +217,7 @@ TARGET_USERIMAGES_USE_F2FS := true
 BOARD_ROOT_EXTRA_FOLDERS := efs metadata misc omr
 
 # Security Patch Level
-VENDOR_SECURITY_PATCH := 2024-01-01
+VENDOR_SECURITY_PATCH := 2024-06-01
 
 # SELinux
 include device/qcom/sepolicy_vndr/SEPolicy.mk
